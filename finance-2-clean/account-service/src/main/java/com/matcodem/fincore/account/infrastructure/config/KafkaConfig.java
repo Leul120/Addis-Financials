@@ -58,4 +58,3 @@ public class KafkaConfig {
 		return !profiles.contains("prod");
 	}
 }
-// Updated on 2024-12-10 08:10:13

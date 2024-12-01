@@ -79,4 +79,3 @@ public class JwtForwardingFilter implements GlobalFilter, Ordered {
 		return -100; // run before routing filters
 	}
 }
-// Updated on 2024-12-19 11:59:51

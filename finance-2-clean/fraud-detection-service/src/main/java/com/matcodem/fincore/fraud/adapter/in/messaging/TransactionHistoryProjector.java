@@ -79,5 +79,3 @@ public class TransactionHistoryProjector {
 		}
 	}
 }
-
-// Updated on 2025-01-01 13:00:10

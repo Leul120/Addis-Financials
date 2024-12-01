@@ -72,4 +72,3 @@ public class KafkaFraudEventPublisher implements FraudEventPublisher {
 		};
 	}
 }
-// Updated on 2024-12-30 11:36:35

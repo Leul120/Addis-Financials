@@ -276,4 +276,3 @@ public class ExchangeRatesApiClient implements RateProviderClient {
 		return 1;
 	}
 }
-// Updated on 2024-12-12 16:39:10

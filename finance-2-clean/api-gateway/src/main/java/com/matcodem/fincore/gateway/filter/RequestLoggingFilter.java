@@ -71,5 +71,3 @@ public class RequestLoggingFilter implements GlobalFilter, Ordered {
 		return -90; // after JwtForwardingFilter (-100) so X-Auth-User-Id is available
 	}
 }
-
-// Updated on 2024-12-06 10:20:18

@@ -20,4 +20,3 @@ public enum Currency {
 		throw new IllegalArgumentException("Unknown currency: " + code);
 	}
 }
-// Updated on 2024-12-20 17:25:32

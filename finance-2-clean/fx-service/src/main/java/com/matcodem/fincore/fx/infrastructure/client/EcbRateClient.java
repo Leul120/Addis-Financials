@@ -216,5 +216,3 @@ public class EcbRateClient implements RateProviderClient {
 		return 2;
 	}
 }
-
-// Updated on 2024-12-27 14:17:38

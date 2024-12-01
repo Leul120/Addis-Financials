@@ -56,4 +56,3 @@ public class FxKafkaConfig {
 		return !profiles.contains("prod");
 	}
 }
-// Updated on 2024-12-09 10:45:58

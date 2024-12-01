@@ -17,5 +17,3 @@ public interface GetAccountUseCase {
 	@Transactional(readOnly = true)
 	List<AuditLogRepository.AuditEntry> getAuditLog(AccountId accountId);
 }
-
-// Updated on 2024-12-10 11:48:15

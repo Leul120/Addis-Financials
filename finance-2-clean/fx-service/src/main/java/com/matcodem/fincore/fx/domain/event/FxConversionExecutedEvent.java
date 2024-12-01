@@ -31,4 +31,3 @@ public record FxConversionExecutedEvent(
 		return "fx.conversion.executed";
 	}
 }
-// Updated on 2024-12-05 09:17:18

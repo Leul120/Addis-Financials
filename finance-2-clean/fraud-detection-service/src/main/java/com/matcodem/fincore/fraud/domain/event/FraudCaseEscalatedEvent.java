@@ -26,5 +26,3 @@ public record FraudCaseEscalatedEvent(
 		return "fraud.case.escalated";
 	}
 }
-
-// Updated on 2024-12-24 18:20:37

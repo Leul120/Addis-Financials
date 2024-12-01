@@ -41,4 +41,3 @@ public class AuditLogJpaEntity {
 	private Instant occurredAt;
 
 }
-// Updated on 2024-12-17 16:43:50

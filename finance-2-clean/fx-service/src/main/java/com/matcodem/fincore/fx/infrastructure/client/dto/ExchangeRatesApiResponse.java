@@ -51,5 +51,3 @@ public class ExchangeRatesApiResponse {
 }
 
 
-
-// Updated on 2024-12-11 13:29:54

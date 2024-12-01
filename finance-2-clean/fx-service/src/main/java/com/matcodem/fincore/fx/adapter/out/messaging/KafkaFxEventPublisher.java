@@ -54,4 +54,3 @@ public class KafkaFxEventPublisher implements FxEventPublisher {
 				});
 	}
 }
-// Updated on 2024-12-12 14:13:24

@@ -71,4 +71,3 @@ public class FraudCaseJpaEntity {
 	@OneToMany(mappedBy = "fraudCase", cascade = CascadeType.ALL, orphanRemoval = true, fetch = FetchType.EAGER)
 	private List<FraudRuleResultJpaEntity> ruleResults = new ArrayList<>();
 }
-// Updated on 2024-12-25 09:15:04
