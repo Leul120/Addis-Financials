@@ -47,3 +47,4 @@ public class KafkaDomainEventPublisher implements DomainEventPublisher {
 		events.forEach(this::publish);
 	}
 }
+// Updated on 2024-12-04 08:28:46
