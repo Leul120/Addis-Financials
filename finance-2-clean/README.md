@@ -387,3 +387,4 @@ Velocity checks (e.g. "how many payments from this account in the last 5 minutes
 
 **Why Avro over JSON for Kafka?**
 Schema Registry enforces compatibility contracts - a producer cannot publish a schema that would break existing consumers. This is a hard requirement in a multi-team banking environment. Avro's binary encoding also reduces message size by roughly 60% compared to JSON for typical payment events, which matters at volume.
+// Updated on 2024-12-05 16:59:34
