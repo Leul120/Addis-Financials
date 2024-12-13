@@ -21,3 +21,4 @@ storage:
 compactor:
   compaction:
     block_retention: 48h
+// Updated on 2024-12-13 13:59:08
