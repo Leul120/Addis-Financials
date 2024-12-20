@@ -9,3 +9,4 @@ import com.matcodem.fincore.notification.domain.model.Notification;
 public interface DispatchNotificationUseCase {
 	void dispatch(Notification notification);
 }
+// Updated on 2024-12-20 09:42:19
