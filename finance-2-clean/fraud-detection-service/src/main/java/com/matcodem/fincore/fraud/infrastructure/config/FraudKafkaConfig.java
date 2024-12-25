@@ -151,3 +151,4 @@ public class FraudKafkaConfig {
 		return !profiles.contains("prod");
 	}
 }
+// Updated on 2024-12-25 13:39:41
