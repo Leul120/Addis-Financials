@@ -8,3 +8,5 @@ public record ConversionQuoteResponse(
 		BigDecimal appliedRate, BigDecimal fee, int spreadBasisPoints, Instant rateTimestamp
 ) {
 }
+
+// Updated on 2024-12-25 09:15:04
