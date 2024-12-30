@@ -62,3 +62,4 @@ public class UserReadModelJpaEntity {
 	@Column(name = "updated_at", nullable = false)
 	private Instant updatedAt;
 }
+// Updated on 2024-12-30 15:35:18
