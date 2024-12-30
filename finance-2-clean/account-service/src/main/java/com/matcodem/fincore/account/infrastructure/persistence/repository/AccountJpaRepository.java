@@ -22,3 +22,4 @@ public interface AccountJpaRepository extends JpaRepository<AccountJpaEntity, UU
 	@Query("SELECT a FROM AccountJpaEntity a WHERE a.ownerId = :ownerId AND a.status = 'ACTIVE'")
 	List<AccountJpaEntity> findActiveAccountsByOwner(String ownerId);
 }
+// Updated on 2024-12-30 16:34:05
