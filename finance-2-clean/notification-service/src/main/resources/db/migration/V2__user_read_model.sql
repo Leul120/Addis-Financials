@@ -40,3 +40,4 @@ COMMENT ON TABLE notification_user_read_model IS 'Local account->user contact ma
 COMMENT ON COLUMN notification_user_read_model.user_id IS 'Matches JWT sub claim and payment.initiatedBy';
 COMMENT ON COLUMN notification_user_read_model.account_id IS 'Account owned by this user - one row per account';
 COMMENT ON COLUMN notification_user_read_model.fcm_token IS 'Firebase Cloud Messaging token - rotated by mobile app, null if user has no mobile app';
+// Updated on 2025-01-02 14:16:17
